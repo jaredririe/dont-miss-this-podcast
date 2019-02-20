@@ -4,7 +4,7 @@
   <channel>
 
     <title>Don't Miss This</title>
-    <link>http://www.website.com</link>
+    <link>http://backendology.com/dont-miss-this-podcast</link>
     <description>Description</description>
     <itunes:summary>Summary</itunes:summary>
     <itunes:category text="Christianity"/>
@@ -17,23 +17,23 @@
       <itunes:name>Author</itunes:name>
       <itunes:email>email</itunes:email>
     </itunes:owner>
-    <atom:link href="http://www.website.com" rel="self" type="application/rss+xml" />
+    <atom:link href="http://backendology.com/dont-miss-this-podcast" rel="self" type="application/rss+xml" />
 
     <image>
-      <url>http://www.website.com/cover_144.jpg</url>
+      <url>http://backendology.com/dont-miss-this-podcast/cover_144.jpg</url>
       <title>Don't Miss This</title>
-      <link>http://www.website.com</link>
+      <link>http://backendology.com/dont-miss-this-podcast</link>
     </image>
 
-    <itunes:image href="http://www.website.com/cover_1400.jpg"/>
+    <itunes:image href="http://backendology.com/dont-miss-this-podcast/cover_1400.jpg"/>
 
     <item>
       <title>Come Follow Me, Lesson 2 Matthew 1; Luke 1</title>
       <itunes:author>Author</itunes:author>
       <author>Author</author>
 
-      <itunes:image href="http://www.website.com/cover_1400.jpg" />
-      <enclosure url="http://www.website.com/Come_Follow_Me_Matthew_1_and_Luke_1" length="30080393" type="audio/mp3"/>
+      <itunes:image href="http://backendology.com/dont-miss-this-podcast/cover_1400.jpg" />
+      <enclosure url="http://backendology.com/dont-miss-this-podcast/Come_Follow_Me_Matthew_1_and_Luke_1" length="30080393" type="audio/mp3"/>
       <guid isPermaLink="false">4c9348c14336409bb6d0b3b657d59cec</guid>
       <pubDate>Mon, 31 Dec 2018 09:10:29 -0700</pubDate>
       <itunes:duration>00:25:04</itunes:duration>
