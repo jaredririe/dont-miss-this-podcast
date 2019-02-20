@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <title>Don't Miss This</title>
+    <link>http://www.website.com</link>
+    <description>Description</description>
+    <itunes:summary>Summary</itunes:summary>
+    <itunes:category text="Christianity"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Subtitle</itunes:subtitle>
+    <language>en-US</language>
+    <author>Author</author>
+    <itunes:author>Author</itunes:author>
+    <itunes:owner>
+      <itunes:name>Author</itunes:name>
+      <itunes:email>email</itunes:email>
+    </itunes:owner>
+    <atom:link href="http://www.website.com" rel="self" type="application/rss+xml" />
+
+    <image>
+      <url>http://www.website.com/cover_144.jpg</url>
+      <title>Don't Miss This</title>
+      <link>http://www.website.com</link>
+    </image>
+
+    <itunes:image href="http://www.website.com/cover_1400.jpg"/>
+
+    <item>
+      <title>Come Follow Me, Lesson 2 Matthew 1; Luke 1</title>
+      <itunes:author>Author</itunes:author>
+      <author>Author</author>
+
+      <itunes:image href="http://www.website.com/cover_1400.jpg" />
+      <enclosure url="http://www.website.com/Come_Follow_Me_Matthew_1_and_Luke_1" length="30080393" type="audio/mp3"/>
+      <guid isPermaLink="false">4c9348c14336409bb6d0b3b657d59cec</guid>
+      <pubDate>Mon, 31 Dec 2018 09:10:29 -0700</pubDate>
+      <itunes:duration>00:25:04</itunes:duration>
+      <description>Description</description>
+    </item>
+
+  </channel>
+</rss>
