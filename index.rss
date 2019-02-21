@@ -5,39 +5,61 @@
 
     <title>Don't Miss This</title>
     <link>https://backendology.com/dont-miss-this-podcast</link>
-    <description>Description</description>
-    <itunes:summary>Summary</itunes:summary>
-    <itunes:category text="Christianity"/>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:subtitle>Subtitle</itunes:subtitle>
+    <description>Tips and tools for your study of the New Testament in 2019</description>
     <language>en-US</language>
-    <author>Author</author>
-    <itunes:author>Author</itunes:author>
+    <author>Emily Freeman and David Butler</author>
+
+    <itunes:category text="Christianity"/>
+    <itunes:summary>Tips and tools for your study of the New Testament in 2019</itunes:summary>
+    <itunes:author>Emily Freeman and David Butler</itunes:author>
+    <itunes:subtitle>Tools for Your Sunday Study</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-      <itunes:name>Author</itunes:name>
-      <itunes:email>email</itunes:email>
+      <itunes:name>Emily Freeman and David Butler</itunes:name>
+      <itunes:email>hello@emilybellefreeman.com</itunes:email>
     </itunes:owner>
+
     <atom:link href="https://backendology.com/dont-miss-this-podcast" rel="self" type="application/rss+xml" />
 
     <image>
-      <url>https://backendology.com/dont-miss-this-podcast/cover_144.jpg</url>
+      <url>https://backendology.com/dont-miss-this-podcast/cover.png</url>
       <title>Don't Miss This</title>
       <link>https://backendology.com/dont-miss-this-podcast</link>
     </image>
 
-    <itunes:image href="https://backendology.com/dont-miss-this-podcast/cover_1400.jpg"/>
+    <itunes:image href="https://backendology.com/dont-miss-this-podcast/cover.png"/>
 
     <item>
       <title>Come Follow Me, Lesson 2 Matthew 1; Luke 1</title>
-      <itunes:author>Author</itunes:author>
-      <author>Author</author>
+      <author>Emily Freeman and David Butler</author>
+      <enclosure url="https://backendology.com/dont-miss-this-podcast/come-follow-me-matthew-1-and-luke-1.mp3" length="30316113" type="audio/mp3"/>
+      <description>A Note from Emily & David:
 
-      <itunes:image href="https://backendology.com/dont-miss-this-podcast/cover_1400.jpg" />
-      <enclosure url="https://backendology.com/dont-miss-this-podcast/Come_Follow_Me_Matthew_1_and_Luke_1.mp3" length="30080393" type="audio/mp3"/>
+Welcome to you all... and Happy New Years folks!  We made it to 2019.
+
+By now, you will probably have taught your first lesson on being responsible for your own learning. The Don’t Miss This series will actually start with Week 2 in the lesson manual, which is the first week you will be in the scriptures. Each prep email will arrive to your inbox a full week before you will teach your family. The schedule will look like this:
+
+Your prep email arrives Dec. 31
+
+Teach your family lesson on Jan. 6
+
+Be prepared for your Sunday discussion Jan. 13
+
+We are thrilled to have you along on this journey to follow Christ through a study of the New Testament.  The first four books of the New Testament, what we call “The Gospels”, are essentially a biography of Jesus’ earthly ministry through the eyes of four of His disciples — Matthew, Mark, Luke, and John.  That is where we are starting this week.
+
+Before we jump into Matthew 1 and Luke 1, let’s settle a fear, concern, or worry that may be lingering out there.  We have had lots of conversations with y’all about feeling overwhelmed, inadequate or nervous about this new home centered, church supported curriculum.  Do you ever wonder if that is exactly how Mary felt when the angel first showed up in her courtyard? Overwhelmed, inadequate, nervous. Isn’t it fitting that we begin our study with that story?  A story that starts with the angelic request, “Fear Not... for with God, nothing shall be impossible.”
+
+We don’t only think this is home centered learning is possible, but we believe this will be something you will look forward to every week. There is no wrong way to do this.  God is going to magnify the abilities and ideas you have with the circumstances you are in. Do what you can do and it will be perfect. Let’s not compare with each other, but plan on helping each other.  Let’s keep it simple and meaningful. We hope we will be able to help out with this and we will be relying on you for your ideas too! This program is home centered, but it is also church supported. And we — you and I — are the church.  In this community you will find support, ideas, and a group of people shouting out encouragement to one another.
+
+Best Wishes for your first week,
+
+David and Emily</description>
       <guid isPermaLink="false">4c9348c14336409bb6d0b3b657d59cec</guid>
       <pubDate>Mon, 31 Dec 2018 09:10:29 -0700</pubDate>
-      <itunes:duration>00:25:04</itunes:duration>
-      <description>Description</description>
+
+      <itunes:author>Emily Freeman and David Butler</itunes:author>
+      <itunes:image href="https://backendology.com/dont-miss-this-podcast/cover.png" />
+      <itunes:duration>00:25:03</itunes:duration>
     </item>
 
   </channel>
